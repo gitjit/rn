@@ -1,8 +1,8 @@
 # React Native
 This repository is my root repo for React Native Learning Samples. 
 
-## Setting up React Native Project
 
+## Setting up React Native Project
 
 ```
  # Typescript 
